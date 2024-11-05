@@ -30,5 +30,5 @@ The Olympic Games Management System is a C++ application designed to simulate an
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/olympic-games-management.git
+   git clone https://github.com/amira-1manai/olympic_games_C
    cd olympic-games-management
