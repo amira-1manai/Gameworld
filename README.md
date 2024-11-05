@@ -3,7 +3,8 @@
 
 ## Overview
 
-The Olympic Games Management System is a C++ application designed to simulate and manage various aspects of the Olympic Games. This project aims to provide functionalities for tracking events, athletes, medals, and schedules, enhancing the overall experience of managing the Olympics.
+The Olympic Games Management System is a C++ application designed to simulate and manage various aspects of the Olympic Games. 🏅 This project aims to provide functionalities for tracking events 🏆, athletes 🏃‍♂️, medals 🥇🥈🥉, and schedules 📅, enhancing the overall experience of managing the Olympics. 🌍🎉
+
 
 ## Features
 
